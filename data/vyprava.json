@@ -1,0 +1,68 @@
+{
+  "opicky": [
+    "Bibi",
+    "Koko",
+    "Momo",
+    "Tiki"
+  ],
+  "koberce": [
+    {
+      "id": 1,
+      "nazev": "Mechový švihák",
+      "nosnost": 80,
+      "aktivni": true,
+      "vybava": [
+        "kompas",
+        "polštář"
+      ]
+    },
+    {
+      "id": 2,
+      "nazev": "Banánový blesk",
+      "nosnost": 90,
+      "aktivni": true,
+      "vybava": [
+        "zvonek",
+        "kompas"
+      ]
+    },
+    {
+      "id": 3,
+      "nazev": "Oblačný tulák",
+      "nosnost": 110,
+      "aktivni": true,
+      "vybava": [
+        "kompas",
+        "pláštěnka"
+      ]
+    },
+    {
+      "id": 4,
+      "nazev": "Král džungle",
+      "nosnost": 150,
+      "aktivni": false,
+      "vybava": [
+        "kompas"
+      ]
+    },
+    {
+      "id": 5,
+      "nazev": "Střapatá kometa",
+      "nosnost": 120,
+      "aktivni": true,
+      "vybava": [
+        "polštář",
+        "zvonek"
+      ]
+    },
+    {
+      "id": 6,
+      "nazev": "Kokosový expres",
+      "nosnost": 90,
+      "aktivni": true,
+      "vybava": [
+        "kompas"
+      ]
+    }
+  ]
+}
